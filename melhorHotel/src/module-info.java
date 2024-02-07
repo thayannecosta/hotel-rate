@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author thaya
- *
- */
-module melhorHotel {
-}
