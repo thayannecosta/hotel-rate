@@ -1,8 +1,5 @@
 # Hotel Rate :mortar_board:
 
-![GitHub](https://img.shields.io/github/license/juliocsilvestre/professor-allocation)
-![GitHub last commit](https://img.shields.io/github/last-commit/thayannecosta/professor-allocation)
-
 Um sistema para Escolha de Hotéis desenvolvido em Java. 👨‍💻 👩‍💻
 
 ## Descrição :page_with_curl:
